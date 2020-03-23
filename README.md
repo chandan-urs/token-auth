@@ -2,10 +2,11 @@
 Run the following commands:
 ```python
 python manage.py makemigrations
-'''
+```
+
 ```python
 python manage.py migrate
-'''
+```
 
 #### To create user:
 http://localhost:8000/api/profile/
